@@ -26,9 +26,7 @@ By analyzing trip histories data in New York city in 2018, I found the following
 
 * **User Analysis**
 ![user analysis](Images/dashboard1-user-analysis.png)
-By analyzing half of 2018 trip records (8,766,192 records), we found most users are subscribers (89%), only 11% are customers. Male users are dominant users, accouting for 68% of all the total trips. Females users account for 23%. There are also 8% users did not release their gender information. In the future, promotions targeting female users may help increase the overall profit. 
-
-Across different ages, we found users at age 25-29 rode most, followed by age 30-34 years old. 
+By analyzing half of 2018 trip records (8,766,192 records), we found most users are subscribers (89%), only 11% are customers. Male users are dominant users, accouting for 68% of all the total trips. Females users account for 23%. There are also 8% users did not release their gender information. In the future, promotions targeting female users may help increase the overall profit. Across different ages, we found users at age 25-29 rode most, followed by age 30-34 years old. 
 
 * **Busiest Time Analysis** 
 ![time analysis](Images/dashboard2-time-analysis.png)

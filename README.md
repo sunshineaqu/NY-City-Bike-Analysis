@@ -13,32 +13,32 @@ However, while the data has been regularly updated, the team has yet to implemen
 **Aggregate the data found in the Citi Bike Trip History Logs to build a data dashboard or story.**
 
 <p align="center">
-  <a href="#findings">Findings</a> •
   <a href="#data-source-and-preparation">Data Source and Preparation</a> •
+  <a href="#findings">Findings</a> •
   <a href="#technology-Used">Technology Used</a>
 </p>
 
 ## Findings
 
-* Click [here](https://public.tableau.com/profile/lei6868#!/vizhome/citibike_2018_half/Story1) to view complted tableau dashboard
+**Click [here](https://public.tableau.com/profile/lei6868#!/vizhome/citibike_2018_half/Story1) to view complted tableau dashboard**
 
 By analyzing trip histories data in New York city in 2018, I found the followings: 
 
-**User Analysis**
+* **User Analysis**
 ![user analysis](Images/dashboard1-user-analysis.png)
 By analyzing half of 2018 trip records (8,766,192 records), we found most users are subscribers (89%), only 11% are customers. Male users are dominant users, accouting for 68% of all the total trips. Females users account for 23%. There are also 8% users did not release their gender information. In the future, promotions targeting female users may help increase the overall profit. 
 
 Across different ages, we found users at age 25-29 rode most, followed by age 30-34 years old. 
 
-**Busiest Time Analysis** 
+* **Busiest Time Analysis** 
 ![time analysis](Images/dashboard2-time-analysis.png)
 As expected, May to October have higher number of trips than the rest of the year, possibly due to the weather condition. Across different seasons, we found similar busiest hour patterns, with 17pm being the highest trip starting time and 8am being the 2nd highest trip starting time. This suggests people were biking to and from work. We also noticed different trends between weekdays and weekends. 
 
-**Bike Station Analysis** 
+* **Bike Station Analysis** 
 ![location analysis](Images/dashboard3-location-analysis.png)
 We found the top stations are around Pershing Square North. 
 
-**Unexpected Phenomena** 
+* **Unexpected Phenomena** 
 For the number of trips among different ages and genders, there is a supprisingly high usage among 45-49 year range. By looking into it, those are mainly from age 49 and unknown gender riders. 
 
 ## Limitations
@@ -58,7 +58,7 @@ The whole 2018 trip history dataset is a very large dataset with more than 15 mi
 * Export it as a csv files for Tableau analysis.
 
 ## Technology Used
-**Python** 
+**Python** •
 **Tableau** 
 
 

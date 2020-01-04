@@ -1,0 +1,7 @@
+# Ignore Mac system files
+.DS_store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+

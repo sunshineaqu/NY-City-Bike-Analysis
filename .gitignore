@@ -5,3 +5,7 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
+# Ignore Local folder
+Resources/
+Output/
+

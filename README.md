@@ -44,7 +44,7 @@ IHalf of the records from 2018 were randomly picked due to the up limit of Table
 
 **Data Source**
 This [Citi Bike Data](https://www.citibikenyc.com/system-data) has been processed to remove trips that are taken by staff as they service and inspect the system and any trips that were below 60 seconds in length 
-(potentially false starts or users trying to re-dock a bike to ensure it's secure). The analysis was performed using New York [Citi Bike Trip Histories Data](https://s3.amazonaws.com/tripdata/index.html) for year 2018 (monthly csv files 201801-citibike-tripdata.csv.zip to 201812-citibike-tripdata.csv.zip).
+(potentially false starts or users trying to re-dock a bike to ensure it's secure). The analysis was performed using New York [Citi Bike Trip Histories Data](https://s3.amazonaws.com/tripdata/index.html) for year 2018 (monthly csv files 201801-citibike-tripdata.csv.zip to 201812-citibike-tripdata.csv.zip). These csv files were not uploaded to github repository.
 
 **Data Preaparation (half data)**
 The whole 2018 trip history dataset is a very large dataset with more than 15 million rows, which exceeds the up limit that Tableau can handle. I end up randomly cutting half the records for better performance.
